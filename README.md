@@ -22,3 +22,6 @@ wrote=prompt_input.txt
 - Fast heuristic (`~1 token per 4 chars`) keeps it lightweight.
 - Tries to cut on paragraph/line/sentence boundaries when possible.
 - No external dependencies.
+
+---
+Built with OpenClaw for karthik765.
