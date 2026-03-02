@@ -1,0 +1,4 @@
+This is a small sample input file for testing.
+It demonstrates that the script can read text, estimate tokens, and clip content.
+
+In real workflows, replace this file with long notes, docs, transcripts, or scraped web content.
